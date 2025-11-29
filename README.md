@@ -1,7 +1,7 @@
 # 🎉 Filosofi Desain Logo Dies Natalis ke-63 Universitas Mulawarman  
 **Pemenang 3 Sayembara Desain Logo**
 
-![Logo Preview](preview/logo-preview.png)
+![Logo Preview](preview/DESAIN LOGO.png)
 
 Repository ini berisi dokumen PDF dan penjelasan lengkap mengenai **Filosofi Desain Logo Dies Natalis ke-63 Universitas Mulawarman**, yang berhasil meraih **Juara 3** pada sayembara desain logo Dies Natalis Universitas Mulawarman tahun 2025.
 
