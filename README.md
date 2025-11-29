@@ -75,6 +75,6 @@ Untuk latar gelap, gunakan **versi monokrom**.
 - **DESAIN LOGO.png**  
 - **FILOSOFI DESAIN LOGO.pdf**
 
-📄 **Lihat Laporan PDF:**  
+📄 **Lihat Laporan PPT:**  
 [Klik untuk membuka FILOSOFI%20DESAIN%20LOGO.pdf](./FILOSOFI%20DESAIN%20LOGO.pdf)
 
