@@ -3,7 +3,7 @@
 
 ![Logo Preview](DESAIN%20LOGO.png)
 
-Repository ini berisi file desain dan dokumen PDF berisi **Filosofi Desain Logo Dies Natalis ke-63 Universitas Mulawarman**, yang berhasil meraih **Juara 3** pada Sayembara Desain Logo Dies Natalis Universitas Mulawarman tahun 2025.
+Repository ini berisi file desain dan dokumen PDF berisi **Filosofi Desain Logo Dies Natalis ke-63 Universitas Mulawarman**, yang berhasil meraih **Juara 3** pada Sayembara Desain Logo Dies Natalis Universitas Mulawarman tahun 2024.
 
 ---
 
