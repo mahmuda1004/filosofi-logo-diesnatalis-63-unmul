@@ -89,6 +89,6 @@ Repository ini berisi file desain dan dokumen PDF berisi **Filosofi Desain Logo 
 - **DESAIN LOGO.png**  
 - **FILOSOFI DESAIN LOGO.pdf**
 
-📄 **Lihat Laporan PPT:**  
-[Klik untuk membuka FILOSOFI%20DESAIN%20LOGO.pptx](./FILOSOFI%20DESAIN%20LOGO.pptx)
+📄 **Lihat Laporan PDF:**  
+[Klik untuk membuka Filosofi%20Desain%20Logo%20Dies%20Natalis%20ke-63%20Universitas%20Mulawarman.pptx](./Filosofi%20Desain%20Logo%20Dies%20Natalis%20ke-63%20Universitas%20Mulawarman.pptx)
 
